@@ -76,3 +76,4 @@ MedVox aims to solve this by offering an intelligent voice assistant that respon
 MedVox aims to revolutionize healthcare access by providing an intelligent, always-available, real-time medical voice assistant. It bridges the gap between patients and healthcare professionals, enhances early detection of health issues, and supports doctors with automated tools—ultimately improving the quality and speed of healthcare delivery.
 
 ---
+Youtube link : https://youtu.be/DkVGWUPdZtY?si=IIxNPGgzHwamsyz_
